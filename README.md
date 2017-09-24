@@ -1,9 +1,9 @@
 # runbook-ddd-cqrs-microservice
 
-A sample microservice with CQRS and Event Sourcing architecture. Implemented in Java and Spring Boot.
+A sample microservice with CQRS architecture. Implemented in Java and Spring Boot.
 
 ## The Domain
-For this sample application, we'll work in a operations team domain. Our focus will be on the concept of a **Runbook** wich tracks tasks. 
+For this sample application, we'll work in a operations team domain. Our focus will be on the concept of a **Runbook** wich tracks **Tasks**. 
 
 ## Overview  
 Start your server as an simple java application  
